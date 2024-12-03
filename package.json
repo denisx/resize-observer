@@ -23,6 +23,7 @@
     "type": "git",
     "url": "git+ssh://git@github.com/juggle/resize-observer.git"
   },
+  "sideEffects": false,
   "keywords": [
     "ResizeObserver",
     "polyfill",
